@@ -1,2 +1,3 @@
 # bixispac.com
-Simple Github Pages website for bixispac.com
+
+Static website for Bitcoin Infrastructure Acquisition Corp (NASDAQ: BIXIU), hosted on GitHub Pages.
